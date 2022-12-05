@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Akshay's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshaykoganur)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshaykoganur&hide=Jupyter Notebook)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshaykoganur&hide=Jupyter_Notebook)](https://github.com/anuraghazra/github-readme-stats)
