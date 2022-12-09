@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 - - ✔ SQL
 - 🌱 I’m currently learning Java and DevOps.
 
-[![Akshay's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshaykoganur)](https://github.com/anuraghazra/github-readme-stats)
+[![Akshay's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshaykoganur&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshaykoganur&hide=jupyter%20notebook&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
