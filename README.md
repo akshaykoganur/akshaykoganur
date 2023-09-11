@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently studying in Third Year.
-- 😃 I'm interested in Web Development and Machine Learning
+- 🔭 I’m currently studying in Final Year.
+- 😃 I'm interested in Web Development
 <!--
 **akshaykoganur/akshaykoganur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
